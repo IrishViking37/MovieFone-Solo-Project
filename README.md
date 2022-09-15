@@ -9,7 +9,7 @@
 
 ## Summary
 
-This project was put together to showcase my automation efforts to test target.com. 
+This project was put together to showcase my proficiency in manual and automation testing,  to test target.com. 
 It uses Jest as a test runner, and Selenium Webdriver to hook into the browser.
 
 ## Setup
